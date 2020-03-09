@@ -1,0 +1,20 @@
+KTS    S    FD    KD    LT
+
+34     18    0     28      28
+
+
+T1_Total_Damage       T2_Total_Damage       T3_Total_Damage       T4_Total_Damage
+      60               60               60               60         
+
+R1_Unpaved_Dist       R2_Unpaved_Dist       R3_Unpaved_Dist        R4_Unpaved_Dist
+      0                   0                   2                   0             
+
+THE GAME IS LOSE
+
+Total number of Active enemies = 41
+
+Total number of InActive enemies = 0
+Average First-Shot Delay =   0
+
+Average Kill Delay =   28
+
