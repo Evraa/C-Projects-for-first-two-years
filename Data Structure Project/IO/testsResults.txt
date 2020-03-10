@@ -1,0 +1,6 @@
+Case1  --> Castle win , Towers all alive
+Case2 --> Castle win , 3 Towers alive & 1 destroyed
+Case3 --> Castle  
+Case4 --> Castle 
+Case5 --> Castle win , Towers all alive
+Case6 --> Castle win , 1 Tower alive , 3 destroyed
