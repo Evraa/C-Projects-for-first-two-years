@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Evram\Desktop\project_try2\src\4_model_file\model_file_scene.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Evram\Desktop\project_try2\src\main.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Evram\Desktop\project_try2\common\application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Evram\Desktop\project_try2\common\mesh\mesh_utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Evram\Desktop\project_try2\common\scene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Evram\Desktop\project_try2\common\textures\texture_utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Evram\Desktop\project_try2\vendor\glad\src\glad.c">
+      <Filter>vendors</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Evram\Desktop\project_try2\src\4_model_file\model_file_scene.hpp">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Evram\Desktop\project_try2\common\application.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Evram\Desktop\project_try2\common\camera\camera.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Evram\Desktop\project_try2\common\camera\controllers\fly_camera_controller.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Evram\Desktop\project_try2\common\camera\controllers\orbit_camera_controller.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Evram\Desktop\project_try2\common\framebuffer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Evram\Desktop\project_try2\common\input\keyboard.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Evram\Desktop\project_try2\common\input\mouse.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Evram\Desktop\project_try2\common\mesh\mesh.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Evram\Desktop\project_try2\common\mesh\mesh_utils.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Evram\Desktop\project_try2\common\mesh\vertex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Evram\Desktop\project_try2\common\mesh\vertex_attribute_pointer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Evram\Desktop\project_try2\common\scene.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Evram\Desktop\project_try2\common\shader.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Evram\Desktop\project_try2\common\textures\texture2d.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Evram\Desktop\project_try2\common\textures\texture_cube.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Evram\Desktop\project_try2\common\textures\texture_utils.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Evram\Desktop\project_try2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{9C28C830-04D8-34DA-A7CF-9EB1E908EF3B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B3D53DC0-0133-3838-A48D-BCB633B6DADD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="headers">
+      <UniqueIdentifier>{2359143C-06E9-3738-8137-14A7905CABE9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="sources">
+      <UniqueIdentifier>{E2577497-9ED8-3A6A-8B4E-4D8DA3C0A04D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vendors">
+      <UniqueIdentifier>{9FF655EE-AFFF-3503-AAF9-047F64E01ED1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

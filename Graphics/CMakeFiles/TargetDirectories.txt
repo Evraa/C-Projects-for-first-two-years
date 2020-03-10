@@ -1,0 +1,4 @@
+C:/Users/Evram/Downloads/2021 Data/Graphics/Project/Lab3/CMakeFiles/lab3.dir
+C:/Users/Evram/Downloads/2021 Data/Graphics/Project/Lab3/CMakeFiles/ALL_BUILD.dir
+C:/Users/Evram/Downloads/2021 Data/Graphics/Project/Lab3/vendor/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/Evram/Downloads/2021 Data/Graphics/Project/Lab3/vendor/glfw/src/CMakeFiles/glfw.dir
